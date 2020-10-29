@@ -4,10 +4,10 @@ phpStudy后门检测与利用工具，Python脚本，可一键 GetShell。
 ## 简述
 2019年9月20日，网上传出 phpStudy 软件存在后门，随后作者立即发布声明进行澄清，其真实情况是该软件官网语2016年被非法入侵，然后软件安装包（php_xmlrpc.dll）被植入后门，可进行执行远程命令执行。
 
-此工具为 python 3 编写，支持单 url 检测和批量 url 检测，以及执行 cmd 命令、一键 GetShell
+此工具为 Python 3 编写，支持单 url 检测和批量 url 检测，以及执行 cmd 命令、一键 GetShell
 
 ## 环境
-python 3
+Python 3
 
 pip install requests
 
